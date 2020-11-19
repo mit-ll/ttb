@@ -183,6 +183,10 @@ The master Makefile (`circuits/common.mk`) that is invoked by running the above 
 
 There are several Jupyter Notebooks for plotting the results encoded in each `.json` file in the `circuits/plots` directory. Additionally, there are several scripts for running the Bomberman analysis of each design on a SLURM managed cluster, if more compute power is needed. However, each of the 3 provided designs has been tested on a 15in Macbook Pro with a 3.1 GHz Intel Core i7 processor and 16GB of DDR3 RAM, and each Bomberman analysis took less then a couple minutes to run.
 
+# Citation
+Please use this DOI number reference, published on [Zenodo](https://zenodo.org), when citing the software:    
+[![DOI](https://zenodo.org/badge/222494101.svg)](https://zenodo.org/badge/latestdoi/222494101)
+
 # Disclaimer
 
 DISTRIBUTION STATEMENT A. Approved for public release. Distribution is unlimited.
